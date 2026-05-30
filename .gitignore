@@ -20,3 +20,5 @@ modules.order
 *.swp
 *.swo
 .vscode/
+github_ssh_key
+github_ssh_key.pub
