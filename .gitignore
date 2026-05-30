@@ -1,0 +1,22 @@
+# Kernel module build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.order
+*.symvers
+*.cmd
+
+# Device tree compiled output
+*.dtbo
+
+# Kernel build directories
+.tmp_versions/
+Module.symvers
+modules.order
+
+# Editor files
+*.swp
+*.swo
+.vscode/
